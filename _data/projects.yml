@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot changes
+- project: Web App
   role: Contributor
-  duration: 2016 &mdash; Present
+  duration: 2019 &mdash; Present
   url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  description: A webapp which has a db for storing the customer details.
 
 # GitHub Classroom
 - project: GitHub Classroom
